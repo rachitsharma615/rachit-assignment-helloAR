@@ -1,0 +1,119 @@
+.mainDiv
+{
+margin-top: -93vh;
+width: 100%;
+/* background-color: black;  */
+}
+
+.headButton
+{
+    text-align: left;
+    margin-left: 18rem;
+}
+
+.addButton
+{
+    background-color: #2AC273;
+    border-radius: 30px;
+    border: white;
+    color: white;
+    width: 10rem;
+    font-weight: 700;
+}
+
+.userTable
+{
+    margin-top: 5rem;
+}
+
+.tr
+{
+    border: 1px solid #EEE;
+}
+
+.headerTable{
+    border-bottom: 1px solid #EEE;
+}
+
+.userTable{
+    border: 1px solid #EEE !important;
+    width: max-content;
+    /* padding: 25px; */
+    height: max-content;
+    font-size: 20px;
+    /* width: 50%; */
+}
+
+.subHeader
+{
+    border-right: 1px solid #EEE;
+    text-align: center;
+    width: 17rem;
+    background: #EEE;
+    font-weight: 400;
+
+}
+
+.dataValue
+{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #EEE
+}
+
+.mainContent
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    align-content: stretch;
+}
+
+.col1
+{   
+   background-color: #F38181;
+   width: 50%;
+   text-align: center;
+   
+}
+
+.col2
+{
+    width: 50%;
+    margin-left: 15px;
+    margin-top: 80px;
+
+}
+
+.titleUser
+{
+    font-size: 35px;
+    text-align: left;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    font-weight: 550;
+    color: #4A4A4A;
+}
+
+.formElement
+{
+    margin-top: 30px;
+}
+
+.labeltext
+{
+    color: #4A4A4A;
+    font-weight: 550;
+    font-family: sans-serif;
+}
+
+.inputElement
+{
+    padding-left: 10px;
+    border-radius: 10px;
+    border: 3px solid #EEE;
+    margin-top: 5px;
+    width: 85%;
+
+}

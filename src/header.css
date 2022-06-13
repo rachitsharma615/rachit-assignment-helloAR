@@ -1,0 +1,25 @@
+.header {
+    padding: 45px 0;
+    text-align: center;
+    border-bottom: 1px solid #EEEE;
+  }
+  .header img {
+    width: 39px;
+    height: 32px;;
+  }
+
+  .companyTitle
+  {
+    position:absolute;
+    left: 28px;
+    /* top: 37px; */
+  }
+
+  .profileDetails
+  {
+    position:absolute;
+    right: 158px;
+    /* top: 37px; */
+
+  
+  }
